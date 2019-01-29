@@ -1,6 +1,6 @@
 ## OpenDolphin → OpenOcean
   
-OpenOcean は、OpenDolphin 由来のオープンソース電子カルテです。
+OpenOcean は、OpenDolphin 由来のオープンソース電子カルテでしたが、 
 全面的に作り直します（たぶん）。
   
 ### 出自
