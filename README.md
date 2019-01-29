@@ -1,6 +1,7 @@
 ## OpenDolphin → OpenOcean
   
 OpenOcean は、OpenDolphin 由来のオープンソース電子カルテです。
+全面的に作り直します（たぶん）。
   
 ### 出自
 元は、OpenDolphin 2.7m と名のってました。  
