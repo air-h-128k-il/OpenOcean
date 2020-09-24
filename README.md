@@ -44,7 +44,8 @@ OpenOcean は、OpenDolphin 由来のオープンソース電子カルテでし�
 でも動作を確認してます。
   
   
-[air-h-128k-il](https://twitter.com/air_h_128k_ili)
+[air-h-128k-il](https://twitter.com/air_h_128k_ili)  
+  
 [猪股弘明](https://twitter.com/H_Inomata)
   
   
