@@ -1,7 +1,18 @@
-## OpenDolphin → OpenOcean
+## OpenDolphin → OpenOcean → OpenOcean 2.0
   
 OpenOcean は、OpenDolphin 由来のオープンソース電子カルテでしたが、 
-全面的に作り直します（たぶん）。
+全面的に作り直します（たぶん）。  
+というわけで若干手をつけ始めました。  
+『[OpenOcean とは？](https://phazor.info/OpenOcean/)』  
+『[ORCA Plus から OpenOcean へ](https://phazor.info/OpenOcean/?p=367)』  
+『[ORCA, OpenDolphin, OpenOcean, Horos, HorliX など](https://ameblo.jp/air-h-128k-il/entry-12507695898.html)』  
+『[ORCA, OpenDolphin, OsiriX は三種の神器だったのか？](https://allnightnihon2b.net/blog-jp/?p=501)』  
+などをご参照ください。  
+便宜的に OpenOcean 2.0 と呼び分けてます。  
+  
+以下の以前の記載は[メンテした OpenDolphin-2.7m](https://allnightnihon2b.net/blog-jp/?page_id=367) に近いかと思います。  
+  
+  
   
 ### 出自
 元は、OpenDolphin 2.7m と名のってました。  
@@ -31,4 +42,9 @@ OpenOcean は、OpenDolphin 由来のオープンソース電子カルテでし�
 - MicroSoft Azure の Windows Server 2016 仮想マシン  
   
 でも動作を確認してます。
+  
+  
+[air-h-128k-il](https://twitter.com/air_h_128k_ili)
+[猪股弘明](https://twitter.com/H_Inomata)
+  
   
